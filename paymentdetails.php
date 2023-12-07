@@ -12,11 +12,11 @@
 			<div class="card">
 				<img src="images/5.jpg" class="card-img-top">
 				<div class ="card-body">
-			<form action="https://www.onlinesbi.com/">
-    				<input type="submit" class="btn btn-primary" value="Proceed to Pay" />
-			</form>
-               </div>
-            </div>
+					<form action="https://www.onlinesbi.com/">
+		    				<input type="submit" class="btn btn-primary" value="Proceed to Pay" />
+					</form>
+               			</div>
+            		</div>
         </div>
 
 
